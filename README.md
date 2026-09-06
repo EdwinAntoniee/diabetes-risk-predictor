@@ -4,6 +4,7 @@
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Type](https://img.shields.io/badge/Type-Group%20Project-2563EB?style=flat)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
+![Academic](https://img.shields.io/badge/Academic-Course%20Assignment-blueviolet?style=flat)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white)
 
