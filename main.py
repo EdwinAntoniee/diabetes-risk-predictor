@@ -54,13 +54,7 @@ custom_css = """
         background-size: 100% 4px; /* Scanline effect */
     }
 
-    /* ========================
-       FONT FIX (SAFE TARGETING)
-       ======================== */
-    /* ========================
-       FONT FIX (CLEAN TARGETING)
-       ======================== */
-    /* Target common user text elements directly to prevent breaking internal Streamlit icons */
+    /* Typography */
     h1, h2, h3, h4, h5, h6, p, label, li, input, textarea, th, td, 
     .stMarkdown, .stText, .stMetric, div[data-baseweb="select"],
     .hero-title, .hero-subtitle, .card-title, .metric-value, .metric-label, .result-title, .result-prob {
@@ -341,7 +335,6 @@ custom_css = """
         color: #000000 !important;
     }
 
-    /* Cleaned up complex icon overrides; VT323 is now strictly applied only to text components. */
     
     /* Heartbeat Grid */
     .heartbeat-box {

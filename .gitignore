@@ -1,0 +1,37 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large media & presentation assets (>100MB)
+*.mp4
+*.avi
+*.mov
+VideoPresentasi*
+
+# Course submission documents & academic links
+File_Link*
+*.docx
+*.pdf
+
+# Internal handoff notes & temporary utility scripts
+handoff.md
+clean_eval.py
+
+# 
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
